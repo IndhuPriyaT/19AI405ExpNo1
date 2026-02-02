@@ -245,3 +245,5 @@ if   __name__ == "__main__":
 
 <img width="950" height="443" alt="image" src="https://github.com/user-attachments/assets/70a74154-f679-4362-90e6-2ffdb449eae7" />
 
+<h3>Result:</h3>
+Thus the given AI problem was developed an AI agent and has been executed successfully.
