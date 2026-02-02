@@ -239,3 +239,9 @@ if   __name__ == "__main__":
         print("Performance : {0}".format(agent.performance)) 
         time.sleep(3)
 ```
+
+<hr>
+<h3>Output:</h3>
+
+<img width="950" height="443" alt="image" src="https://github.com/user-attachments/assets/70a74154-f679-4362-90e6-2ffdb449eae7" />
+
